@@ -1,0 +1,30 @@
+.navbar {
+    position: sticky;
+    background-color:brown;
+    overflow: hidden;
+    top: 0;
+}
+
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover{
+    background-color: #ddd;
+    color: black;
+}
+
+.navbar a.active{
+    background-color: #04aa6d;
+    color: white;
+}
+
+#cover-image{
+    width: 50%;
+    height: auto;
+}
