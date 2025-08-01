@@ -159,3 +159,13 @@ p{
   background-color: rgb(230, 65, 65);
   color: black;
 }
+
+.quotes{
+  text-align: center;
+}
+
+ul {
+  font-family:sans-serif;
+  margin-left: 25px;
+  font-size: 16px;
+}
